@@ -3,7 +3,7 @@
 This repo contains a small bare-bones Gitpod configuration file which sets up
 `nasm` and `gcc` for use in the Compute Architecture course of the Freie Universität
 Berlin.  Simply follow the following link
-gitpod.io/#https://github.com/LeonardKoenig/fu-ca-gitpod
+https://gitpod.io/#https://github.com/LeonardKoenig/fu-ca-gitpod
 to open the editor in your browser.  It's set up for use with C (using GCC) and x86
 Assembly (using NASM).
 
