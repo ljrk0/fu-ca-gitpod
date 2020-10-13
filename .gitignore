@@ -1,0 +1,10 @@
+*
+
+!README*
+!.gitpod*
+!.gitignore
+
+!*.nasm
+!*.asm
+!*.c
+!Makefile
